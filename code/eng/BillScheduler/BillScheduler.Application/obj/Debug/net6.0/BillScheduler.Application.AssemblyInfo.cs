@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillScheduler.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4037c16c2243555ad1e54bd12b5d9a91d28ca2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+419f718785aca39f31a5d34a323374657d8a1329")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillScheduler.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillScheduler.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
