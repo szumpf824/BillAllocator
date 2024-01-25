@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillSchedulerApplication\\BillScheduler.Service.csproj",
-      "projectName": "BillScheduler.Service",
-      "projectPath": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillSchedulerApplication\\BillScheduler.Service.csproj",
+      "projectUniqueName": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillScheduler.Domain\\BillScheduler.Domain.csproj",
+      "projectName": "BillScheduler.Domain",
+      "projectPath": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillScheduler.Domain\\BillScheduler.Domain.csproj",
       "packagesPath": "C:\\Users\\szumpf\\.nuget\\packages\\",
-      "outputPath": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillSchedulerApplication\\obj\\",
+      "outputPath": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillScheduler.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szumpf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,9 +60,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

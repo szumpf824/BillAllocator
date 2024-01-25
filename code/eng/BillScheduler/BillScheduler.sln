@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillSchedulerApplication", "BillSchedulerApplication\BillSchedulerApplication.csproj", "{CF6B1E59-AC9B-4525-B266-69D8375A7133}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillScheduler.Service", "BillSchedulerApplication\BillScheduler.Service.csproj", "{CF6B1E59-AC9B-4525-B266-69D8375A7133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillScheduler.Application", "BillScheduler.Application\BillScheduler.Application.csproj", "{07119CFF-5AA6-4812-BAFA-43B7CEFED277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillScheduler.Domain", "BillScheduler.Domain\BillScheduler.Domain.csproj", "{96427502-5982-4446-B0ED-6376A370DE1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillScheduler.Infrastructure", "BillScheduler.Infrastructure\BillScheduler.Infrastructure.csproj", "{78DFC92F-DD8F-4501-868D-747F2EAC8D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillScheduler.Persistence", "BillScheduler.Persistence\BillScheduler.Persistence.csproj", "{89738C7B-CCC9-44F6-833E-AE291E7DAD2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{CF6B1E59-AC9B-4525-B266-69D8375A7133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF6B1E59-AC9B-4525-B266-69D8375A7133}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF6B1E59-AC9B-4525-B266-69D8375A7133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07119CFF-5AA6-4812-BAFA-43B7CEFED277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07119CFF-5AA6-4812-BAFA-43B7CEFED277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07119CFF-5AA6-4812-BAFA-43B7CEFED277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07119CFF-5AA6-4812-BAFA-43B7CEFED277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96427502-5982-4446-B0ED-6376A370DE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96427502-5982-4446-B0ED-6376A370DE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96427502-5982-4446-B0ED-6376A370DE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96427502-5982-4446-B0ED-6376A370DE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DFC92F-DD8F-4501-868D-747F2EAC8D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DFC92F-DD8F-4501-868D-747F2EAC8D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DFC92F-DD8F-4501-868D-747F2EAC8D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DFC92F-DD8F-4501-868D-747F2EAC8D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89738C7B-CCC9-44F6-833E-AE291E7DAD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89738C7B-CCC9-44F6-833E-AE291E7DAD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89738C7B-CCC9-44F6-833E-AE291E7DAD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89738C7B-CCC9-44F6-833E-AE291E7DAD2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pD8yw86Oo/az39COyq2r3ZC3TBQPy6mVDlCtOQXW7igU0H3dYwGg9QrkZS5mGOzhPSHL+9ow6/eWB5M438566Q==",
+  "dgSpecHash": "r87KFYKbBWU0k1ebGlCjo5WYnlUUKv5uyR1a+d6ZabRm+JZ87uhw3fcrU80CbcW9s7sVUfp4a+H2qRmSsHSoDQ==",
   "success": true,
-  "projectFilePath": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillSchedulerApplication\\BillScheduler.Service.csproj",
+  "projectFilePath": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillScheduler.Application\\BillScheduler.Application.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
