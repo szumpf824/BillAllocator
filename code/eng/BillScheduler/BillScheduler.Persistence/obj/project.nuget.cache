@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ChkthxFnU354nR3cT+W4Zw9AXG6V0BhzSzHs+03nzllfWf/T/NunQWMMFAuyyY8RHjtm5U1hEimPMBS20jbNmw==",
+  "success": true,
+  "projectFilePath": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillScheduler.Persistence\\BillScheduler.Persistence.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.25.61.152/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.25.61.164/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillScheduler.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4037c16c2243555ad1e54bd12b5d9a91d28ca2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28d626b414bbd90089bcee6120f6fa22348e6b49")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillScheduler.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillScheduler.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
