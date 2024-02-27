@@ -1,9 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "pD8yw86Oo/az39COyq2r3ZC3TBQPy6mVDlCtOQXW7igU0H3dYwGg9QrkZS5mGOzhPSHL+9ow6/eWB5M438566Q==",
+  "dgSpecHash": "w/Hmt6M29cih4l9TKsYF5QTfyGKSHyQ7EanOpmzzbQSoseD3ie7C3/io7YzPPI0GeCj24MJJ4stmuHsLn/8HWg==",
   "success": true,
   "projectFilePath": "C:\\_DevOpsPersonal\\BillAllocator\\code\\eng\\BillScheduler\\BillSchedulerApplication\\BillScheduler.Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\szumpf\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\szumpf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\szumpf\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\szumpf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\szumpf\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\szumpf\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\szumpf\\.nuget\\packages\\serilog\\3.1.2-dev-02097\\serilog.3.1.2-dev-02097.nupkg.sha512",
+    "C:\\Users\\szumpf\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": [
     {
       "code": "NU1803",
